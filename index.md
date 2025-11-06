@@ -1,0 +1,7 @@
+### Ritvik Mohindru
+rmohindru@ucsd.edu
+DSC 180A B05 Climate Model Emulators
+1. The most interesting topic that we have covered in our domain so far is the deadly consequences climate change could have on humans if it isn't fixed right away. Most people assume that the problems associated with climate change aren't as serious and won't affect them, however, if anthropogenic activities that cause global warming aren't stopped soon, there will be irreversible changes that impact everyone.
+2. A potential investigation that I would like to pursue for the quarter 2 project is how sea level rise is impacted through various scenarios of anthropogenic induced global warming. In addition to predicting this sea level rise, I would like to discuss its potential implications it would have for coastal populations as well as organisms.
+3. A potential change that I'd make in our current quarter 1 project is more frequent meetings or clearer instructions. Additionally, what would help is a brief tutorial as to how we are supposed to go about things, such as pre-processing the data, since x-arrays are unfamiliar to me, instead of having to jump right in and figure it out ourselves. 
+4. Other techniques that I would be interested in using in our project are hybrid modeling and using Neural Networks. I believe that those are techniques that I haven't used but would be efficient in predicting sea level rise, and would pave a way for new discoveries.
